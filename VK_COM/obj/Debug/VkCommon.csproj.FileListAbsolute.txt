@@ -1,0 +1,5 @@
+C:\FREEDOM\VK_COM\VK_COM\VK_COM\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VK_COM\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VK_COM\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VK_COM\obj\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VK_COM\obj\Debug\VK_COM.pdb

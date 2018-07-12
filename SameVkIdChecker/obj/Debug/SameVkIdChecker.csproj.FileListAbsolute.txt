@@ -1,0 +1,5 @@
+C:\FREEDOM\VK_COM\VK_COM\SameVkIdChecker\bin\Debug\SameVkIdChecker.exe
+C:\FREEDOM\VK_COM\VK_COM\SameVkIdChecker\bin\Debug\SameVkIdChecker.pdb
+C:\FREEDOM\VK_COM\VK_COM\SameVkIdChecker\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\SameVkIdChecker\obj\Debug\SameVkIdChecker.exe
+C:\FREEDOM\VK_COM\VK_COM\SameVkIdChecker\obj\Debug\SameVkIdChecker.pdb

@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"C:\FREEDOM\VK\VK\bin\Debug\NN" "C:\FREEDOM\VK\VK\bin\Debug\NN\vk_nn_17.html"</StartArguments>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\bin\Debug\VkScheduler.dll
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\bin\Debug\VkScheduler.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\obj\Debug\VkScheduler.dll
+C:\FREEDOM\VK_COM\VK_COM\VkScheduler\obj\Debug\VkScheduler.pdb

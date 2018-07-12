@@ -1,0 +1,9 @@
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VkCommands.dll
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VkCommands.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VkAuthorization.dll
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\bin\Debug\VkAuthorization.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\obj\Debug\VkCommands.dll
+C:\FREEDOM\VK_COM\VK_COM\VkCommands\obj\Debug\VkCommands.pdb

@@ -1,0 +1,9 @@
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VkHistoryTests.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VkHistoryTests.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VkHistory.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VkHistory.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\obj\Debug\VkHistoryTests.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\obj\Debug\VkHistoryTests.pdb

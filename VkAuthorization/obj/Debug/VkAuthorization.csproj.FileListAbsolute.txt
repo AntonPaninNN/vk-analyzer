@@ -1,0 +1,9 @@
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\bin\Debug\VkAuthorization.dll
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\bin\Debug\VkAuthorization.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\obj\Debug\VkAuthorization.AuthForm.resources
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\obj\Debug\VkAuthorization.csproj.GenerateResource.Cache
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\obj\Debug\VkAuthorization.dll
+C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\obj\Debug\VkAuthorization.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="41f005a6-577c-4126-b9b5-d6e21aa15f28" name="1@1-ПК 2015-04-21 23:51:14" runUser="1-ПК\1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b301f97c-eb11-4d32-88f2-d4ba11f71626">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\FREEDOM\VK_COM\VK_COM\TestResults\1_1-ПК 2015-04-21 23_51_14">
+      <DeploymentItem filename="C:\FREEDOM\VK_COM\VK_COM\VK_COM\bin\Debug\VK_COM.dll" />
+      <DeploymentItem filename="C:\FREEDOM\VK_COM\VK_COM\VkAuthorization\bin\Debug\VkAuthorization.dll" />
+      <DeploymentItem filename="C:\FREEDOM\VK_COM\VK_COM\VkHistory\bin\Debug\VkHistory.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2015-04-21T23:51:14.6834155+03:00" queuing="2015-04-21T23:51:15.0214349+03:00" start="2015-04-21T23:51:15.1014394+03:00" finish="2015-04-21T23:52:04.1002420+03:00" />
+  <TestDefinitions>
+    <UnitTest name="SaveLoadData" storage="c:\freedom\vk_com\vk_com\vkhistorytests\bin\debug\vkhistorytests.dll" id="9ce1a5fa-3fb4-5543-a32b-d92433e2911c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3253750e-00c4-4faf-93e8-c53a84090715" />
+      <TestMethod codeBase="C:\FREEDOM\VK_COM\VK_COM\VkHistoryTests\bin\Debug\VkHistoryTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VkHistoryTests.SaveLoadTest, VkHistoryTests" name="SaveLoadData" />
+    </UnitTest>
+    <UnitTest name="Authorize" storage="c:\freedom\vk_com\vk_com\vkauthorizationtests\bin\debug\vkauthorizationtests.dll" id="91d9f434-c2b2-24d7-d54d-a2d581794b83">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="368b5e73-c22a-41c7-80b9-e6b55e0ab4c2" />
+      <TestMethod codeBase="C:\FREEDOM\VK_COM\VK_COM\VkAuthorizationTests\bin\Debug\VkAuthorizationTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VkAuthorizationTests.Auth, VkAuthorizationTests" name="Authorize" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="91d9f434-c2b2-24d7-d54d-a2d581794b83" executionId="368b5e73-c22a-41c7-80b9-e6b55e0ab4c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ce1a5fa-3fb4-5543-a32b-d92433e2911c" executionId="3253750e-00c4-4faf-93e8-c53a84090715" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="368b5e73-c22a-41c7-80b9-e6b55e0ab4c2" testId="91d9f434-c2b2-24d7-d54d-a2d581794b83" testName="Authorize" computerName="1-ПК" duration="00:00:48.8057200" startTime="2015-04-21T23:51:15.1114400+03:00" endTime="2015-04-21T23:52:03.9852354+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3253750e-00c4-4faf-93e8-c53a84090715" testId="9ce1a5fa-3fb4-5543-a32b-d92433e2911c" testName="SaveLoadData" computerName="1-ПК" duration="00:00:00.0487267" startTime="2015-04-21T23:52:03.9902357+03:00" endTime="2015-04-21T23:52:04.0932416+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

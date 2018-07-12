@@ -1,0 +1,7 @@
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\bin\Debug\VkHistory.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\bin\Debug\VkHistory.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\bin\Debug\VK_COM.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\bin\Debug\VK_COM.pdb
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\obj\Debug\VkHistory.dll
+C:\FREEDOM\VK_COM\VK_COM\VkHistory\obj\Debug\VkHistory.pdb
